@@ -14,7 +14,7 @@ function addToCart(item) {
  
  
  
-Math.floor(Math.random() * )
+  var price = Math.floor(Math.random() * 100)
 
 }
 
