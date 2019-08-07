@@ -12,6 +12,11 @@ function setCart(c) {
 function addToCart(item) {
  // write your code here
  
+ 
+ 
+ nums: curState.nums.map(n =>
+        Math.floor(Math.random() * this.props.maxNum + 1)
+      )
 }
 
 function viewCart() {
