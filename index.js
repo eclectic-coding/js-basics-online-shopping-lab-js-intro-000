@@ -14,9 +14,8 @@ function addToCart(item) {
  
  
  
- nums: curState.nums.map(n =>
-        Math.floor(Math.random() * this.props.maxNum + 1)
-      )
+Math.floor(Math.random() * )
+
 }
 
 function viewCart() {
