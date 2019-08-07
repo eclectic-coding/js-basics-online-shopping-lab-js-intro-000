@@ -17,8 +17,7 @@ person.lastName = "Doe";
 person.age = 50;
 person.eyeColor = "blue";
  
- 
-  var price = Math.floor(Math.random() * 100)
+
 
 }
 
