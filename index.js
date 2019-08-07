@@ -11,7 +11,11 @@ function setCart(c) {
 
 function addToCart(item) {
  // write your code here
- 
+ var person = new Object();
+person.firstName = "John";
+person.lastName = "Doe";
+person.age = 50;
+person.eyeColor = "blue";
  
  
   var price = Math.floor(Math.random() * 100)
