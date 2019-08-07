@@ -37,3 +37,11 @@ function removeFromCart(item) {
 function placeOrder(cardNumber) {
   // write your code here
 }
+
+function getRandomInt(itemName) {
+  
+}
+
+function generateCartItem(itemName) {
+  
+}
